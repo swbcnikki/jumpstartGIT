@@ -1,3 +1,4 @@
 my file
 adding a line
 another line added
+other merge conflict line in master
